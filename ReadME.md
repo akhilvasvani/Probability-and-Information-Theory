@@ -19,4 +19,4 @@ Thank you Louis Tiao (https://tiao.io/#projects).
 
 [Statistics Models](https://github.com/statsmodels/statsmodels)
 
-[Expectation, Variance and Standard Deviation forContinuous Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading6a.pdf)
+[Expectation, Variance and Standard Deviation for Continuous Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading6a.pdf)
