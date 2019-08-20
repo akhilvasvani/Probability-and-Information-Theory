@@ -11,10 +11,12 @@ Thank you Louis Tiao (https://tiao.io/#projects).
 
 # Resources
 
-Introduction to Probability, Statistics, and Random Processes (https://www.probabilitycourse.com/preface.php)
+[Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/preface.php)
 
-Statistical Functions, Operations, etc. using Scipy (https://docs.scipy.org/doc/scipy/reference/stats.html)
+[Statistical Functions, Operations, etc. using Scipy](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
-Tensorflow Probability (https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
+[Tensorflow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
 
-Statistics Models (https://github.com/statsmodels/statsmodels)
+[Statistics Models](https://github.com/statsmodels/statsmodels)
+
+[Expectation, Variance and Standard Deviation for Continuous Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading6a.pdf)
