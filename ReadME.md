@@ -4,9 +4,9 @@ This repository will focus on the probability and information theory fundamental
 
 # References
 
-Thank you Aerin Kim (https://medium.com/@aerinykim) for you findings and very intuitive explanations.
+Thank you [Aerin Kim](https://medium.com/@aerinykim) for you findings and very intuitive explanations.
 
-Thank you Louis Tiao (https://tiao.io/#projects).
+Thank you [Louis Tiao](https://tiao.io/#projects).
 
 
 # Resources
@@ -20,3 +20,5 @@ Thank you Louis Tiao (https://tiao.io/#projects).
 [Statistics Models](https://github.com/statsmodels/statsmodels)
 
 [Expectation, Variance and Standard Deviation for Continuous Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading6a.pdf)
+
+[Stanford Notes: Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf)
